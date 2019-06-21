@@ -1,4 +1,4 @@
-# Intro To Quest Workshop Materials
+# Intro to Quest Workshop Materials
 
 ## Items to download for the workshop
 [Cyberduck](https://cyberduck.io/), a friendly ftp client for transferring files to/from Quest.  Quest specific [Instructions](https://kb.northwestern.edu/quest-filetransfer) for Cyberduck can be found in the SFTP section of the transferring files page.
